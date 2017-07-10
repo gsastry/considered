@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""User models."""
+"""Quiz models."""
 import datetime as dt
 
 from flask_login import UserMixin
